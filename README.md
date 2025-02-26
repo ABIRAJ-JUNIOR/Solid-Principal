@@ -39,7 +39,7 @@ Steps to Run
 
 1️⃣ Clone the repository:
 
-git clone [https://github.com/yourusername/StudentManagementSystem.git](https://github.com/ABIRAJ-JUNIOR/Solid-Principal.git)
+git clone https://github.com/ABIRAJ-JUNIOR/Solid-Principal.git
 cd StudentManagementSystem
 
 2️⃣ Open the project in your IDE.
