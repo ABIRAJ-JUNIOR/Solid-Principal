@@ -6,11 +6,15 @@ This is a Student Management System built using C# while following the SOLID pri
 
 🚀 Features
 
-✅ Add new students with ID, Name, Age, and Course✅ Remove students by ID✅ View all registered students✅ Supports multiple storage implementations:
+✅ Add new students with ID, Name, Age, and Course
+✅ Remove students by ID
+✅ View all registered students
+✅ Supports multiple storage implementations:
 
 In-memory storage
 
-Database storage (simulated)✅ Follows SOLID principles for maintainable and scalable code
+Database storage (simulated)
+✅ Follows SOLID principles for maintainable and scalable code
 
 📌 SOLID Principles Applied
 
@@ -53,18 +57,14 @@ dotnet run
 
 1️⃣ Select storage type:
 
-1 for In-Memory Storage
-
+1 for In-Memory Storag
 2 for Database Storage (Simulation)`
 
 2️⃣ Choose an option:
 
 1 ➝ Add Student
-
 2 ➝ Remove Student
-
 3 ➝ View All Students
-
 4 ➝ Exit
 
 🔥 Future Improvements
